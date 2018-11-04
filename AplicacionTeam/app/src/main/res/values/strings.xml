@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Comando Team</string>
+    <string name="title_activity_login">Login</string>
+</resources>
